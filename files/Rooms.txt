@@ -1,0 +1,10 @@
+ROOMS DESCRIPTIONS
+Room ONE, which has 3 exits, one of which represents the exit from the castle (to the west)
+Room TWO, which has 3 exits, and at the beginning there's a treasure, the gold egg
+Room THREE, which has only one exit, at the beginning there's the shield that it's mandatory to kill MEDUSA
+Room FOUR, which has only the exit to room 5, but it also contains a treasure, the chalice
+Room FIVE, which has, at the beginning, only two exit, and another locked door or not, it depends on whether the monster MEDUSA is alive or not
+Room SIX, which has, at the beginning, only one exit, and another locked door or not, it depends on whether the monster DRACULA is alive or not
+Room SEVEN, which has only the exit to room 5, but it also contains, at the beginning, a weapon that it's mandatory to kill DRACULA, the dagger
+Room EIGHT, which has 2 exits, and at the beginning there's a treasure, the paper
+Room NINE, which is your goal, and obviously it contains, at the beginning, the Princess!

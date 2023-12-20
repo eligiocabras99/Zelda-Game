@@ -1,0 +1,3 @@
+Welcome to Zelda Game!
+The princess of the kingdom of CPeria, Princess Zelda, has been captured by an evil wizard and placed in a castle guarded by monster.
+Your goal is to set her free and bring her outside the castle. There are 9 rooms, which have treasure and weapons inside.
